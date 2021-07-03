@@ -5,3 +5,6 @@
 * Saga de Geminis
 * Deathmask de Cancer
 * Aioria de de Leo
+* Shaka de Virgo
+* Dohko de Libra
+* Jesus de Escorpio
