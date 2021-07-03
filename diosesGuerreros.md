@@ -3,4 +3,4 @@
 * Hagen de Caballo
 * Sigfrid de Doble Dragon
 * Mime del Arpa
-* Fenrur de Lobo del norte
+* bud de Lobo blanco
