@@ -11,3 +11,4 @@
 * Aioros de Sagitario
 * Shura de Capricornio
 * Camus de Acuario
+* Afrodita de Piscis
