@@ -9,4 +9,5 @@
 * Dohko de Libra
 * Jesus de Escorpio
 * Aioros de Sagitario
+* Shura de Capricornio
 * Camus de Acuario
